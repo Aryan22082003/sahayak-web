@@ -1,42 +1,40 @@
-# Learning Next.js Series
+# 🚀 Sustainable Farming Solutions - Next.js SaaS Landing Page
 
-This repository contains the code for a YouTube video series dedicated to learning Next.js. Follow along as we learn together.
+This is a Next.js SaaS Landing Page designed for a Sustainable Farming solution. The website presents an innovative, cost-effective, and energy-efficient method for growing microgreens without soil. 
 
-## 🎥 Video Series
+## 🌿 Project Overview  
+The landing page highlights the key benefits of soilless microgreen farming and offers a visually appealing and user-friendly experience. It features smooth animations, responsive layouts, and interactive sections to engage users.
 
-1. [Building Beautiful Landing Pages with Next.js](https://www.youtube.com/watch?v=u8itgg8216k)
-2. [SEO Best Practices in Next.js. SEO Part 1](https://www.youtube.com/watch?v=_w5Jn2sAJXw)
-3. [Creating Unique Landing Pages for Different Keywords. SEO Part 2](https://www.youtube.com/watch?v=IMUGTOiyhWk)
+## ✨ Features  
+- 🌍 Modern UI – Built using Next.js, Tailwind CSS, and TypeScript.  
+- 📱 Fully Responsive – Optimized for all screen sizes.  
+- 🚀 Fast Performance – Lightweight and optimized for speed.  
+- 🎨 Custom Animations – Smooth transitions and interactive elements.  
+- 🔗 Scroll Navigation – Jump to sections with smooth scrolling.  
+- ⚡ SEO Optimized – Improved performance and search engine visibility.  
 
-## 🚀 Getting Started
+## 🛠 Tech Stack  
+- Frontend: Next.js, TypeScript, Tailwind CSS  
+- UI Components: React.js  
+- Animation: Framer Motion   
+- Deployment: Vercel 
 
-First, run the development server:
+## 🚀 Getting Started  
+Follow these steps to set up the project locally:
 
-```bash
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/Aryan22082003/sahayak-web.git
+cd sahayak-web
+2️⃣ Install Dependencies
+npm install
+3️⃣ Run the Development Server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The app will be available at http://localhost:3000/.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📧 Contact
+🔹 Author: Aryan
+🔹 Email: dalviaryan1@gmail.com
+🔹 GitHub: @Aryan22082003
+🔹 LinkedIn: https://www.linkedin.com/in/aryan-dalvi-560964264/
 
-## 🛠 Tech Stack
-
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org/)
-- [Vercel](https://vercel.com/) for deployment
-
-## 📚 Learn More
-
-To dive deeper into Next.js, check out the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Learn Next.js](https://nextjs.org/learn)
-
-## 📄 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
