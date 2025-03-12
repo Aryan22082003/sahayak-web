@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
-import TestimonialSingle from "./testimonial-single";
-import { ul } from "framer-motion/client";
+// import TestimonialSingle from "./testimonial-single";
+// import { ul } from "framer-motion/client";
 
 const faqData = [
   {

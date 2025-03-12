@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
-import SVGLogo from "./svg-logo";
-import artemImg from "../../public/artem.png";
+// import SVGLogo from "./svg-logo";
+// import artemImg from "../../public/artem.png";
 import Logo from "../../public/logo.png";
 
 export default function Footer() {

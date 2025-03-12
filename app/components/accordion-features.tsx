@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import TestimonialSingle from "./testimonial-single";
+// import TestimonialSingle from "./testimonial-single";
 import feature1 from "../../public/feature_1.gif";
 import feature2 from "../../public/feature_2.png";
 import feature3 from "../../public/feature_3.jpg";
@@ -268,7 +268,7 @@ const features = [
   },
 ];
 
-export default function AccordionFeatures({ config }: { config?: any }) {
+export default function AccordionFeatures({ }: { config?: any }) {
   const [activeFeature, setActiveFeature] = useState(1);
 
   return (
