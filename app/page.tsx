@@ -8,7 +8,7 @@ import { Header } from "./components/header";
 import Hero from "./components/hero";
 // import LogoClouds from "./components/logo-clouds";
 import Pricing from "./components/pricing";
-import { renderSchemaTags } from "./lib/seo";
+// import { renderSchemaTags } from "./lib/seo";
 
 export default function Home() {
   return (

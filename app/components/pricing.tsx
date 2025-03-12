@@ -1,7 +1,7 @@
 "use client";
 // import TestimonialSingle from "./testimonial-single";
 import { Button } from "./button";
-export default function Pricing({ }: { config?: any }) {
+export default function Pricing({ }: { config?: string }) {
   return (
     <section className="overflow-hidden bg-slate-50" id="pricing">
       <div className="mx-auto max-w-5xl px-8 py-24">
@@ -15,7 +15,7 @@ export default function Pricing({ }: { config?: any }) {
           Choose Your Plan, Grow Your Future
           </h2>
           <div className="mx-auto max-w-md font-medium text-slate-500">
-          Whether you're a hobbyist or a commercial farmer, SAHAYAK has a plan to fit your needs and budget.
+          Whether you&apos;re a hobbyist or a commercial farmer, SAHAYAK has a plan to fit your needs and budget.
           </div>
         </div>
         <div className="relative flex flex-col items-stretch justify-center gap-8 lg:flex-row">
@@ -46,7 +46,7 @@ export default function Pricing({ }: { config?: any }) {
               <span key="feature1">Everything in the Basic Plan</span>,
               <span key="feature2">Materials for up to 5 farming units</span>,
               <span key="feature3">Advanced IoT Features</span>,
-              <span key="feature4">6 months' supply of liquid nutrients</span>,
+              <span key="feature4">6 months&apos; supply of liquid nutrients</span>,
               <span key="feature5">1-hour online training session for efficient use of the system</span>,
             ]}
             buttonLink="https://buy.stripe.com/test_00g5n01Ny6Tya64fYY"

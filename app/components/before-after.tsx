@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 
-export default function BeforeAfter({ }: { config?: any }) {
+export default function BeforeAfter({ }: { config?: string }) {
   return (
     <section id="before-after" className="bg-slate-50">
       <div className="mx-auto max-w-5xl px-8 py-16 md:py-24 ">
