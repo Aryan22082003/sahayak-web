@@ -32,9 +32,5 @@ npm install
 npm run dev
 The app will be available at http://localhost:3000/.
 
-📧 Contact
-🔹 Author: Aryan
-🔹 Email: dalviaryan1@gmail.com
-🔹 GitHub: @Aryan22082003
-🔹 LinkedIn: https://www.linkedin.com/in/aryan-dalvi-560964264/
+
 
